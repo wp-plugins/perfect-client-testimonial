@@ -17,11 +17,14 @@ Perfect Client Testimonial is one of the best custom plugin to publish your unli
 
 Plugin Features
 
-* Shortcode System
+* Shortcode System.
 * Wordpress Custom Post Enabled.
-* Post Thumbnail.
-*You can use it sidebar via Text widgets.
+* Easy to Use.
+* You can use it sidebar via Text widgets.
+* You can use it in posts or pages.
+* Just use this shortcode [tmrd-testimonial] where you want show the testimonial.
 
+ 
 Live Preview: http://nakshighor.com/testimonial/
 
 == Installation ==
@@ -30,7 +33,7 @@ Via WordPress -
 1. Install as a regular WordPress plugin.
 2. Now go to Testimonial Menu to create New testimonial.After create that your testimonial to ready for use.
 3.Then go to Your desire post/page/custom post or Text widget and past the short code  [tmrd-testimonial] 
-3. you could use for .php file any where `<?php echo do_shortcode('[tmrd-testimonial'); ?>`
+3. you could use for .php file any where `<?php echo do_shortcode('[tmrd-testimonial]'); ?>`
 
 
 Via FTP -
@@ -43,8 +46,10 @@ Via FTP -
 
 
 
-== Frequently asked questions ==
-1.Please contact us to solve your problem.
+== Frequently asked questions == 
+
+1.Please Give us five star if you like it.
+2.Please contact us to solve your problem.
 
 
 == Screenshots ==
