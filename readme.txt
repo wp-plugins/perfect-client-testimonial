@@ -44,6 +44,7 @@ Via FTP -
 
 
 == Frequently asked questions ==
+1.Please contact us to solve your problem.
 
 
 == Screenshots ==
