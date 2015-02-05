@@ -1,4 +1,4 @@
-===Theme Road Client Testimonial ===
+=== Perfect Client Testimonial ===
 Contributors: Theme Road
 Donate link: 
 Tags:  Testimonial, testimonial slider, clients Feedback, clients Testimonial, testimonial slider,clients-portfolio,clients-plugin,testimonial-plugin
@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Display Cleants Feedback or Testimonials 
+Display Clients Feedback or Testimonials in pages,posts,custom-posts,widgets
 
 
 == Description ==
@@ -29,7 +29,7 @@ Live Preview: http://nakshighor.com/testimonial/
 Via WordPress -
 1. Install as a regular WordPress plugin.
 2. Now go to Testimonial Menu to create New testimonial.After create that your testimonial to ready for use.
-3.Then go to Your desire post/page/custom post or Text widget and past the short code  [trmd-testimonial] 
+3.Then go to Your desire post/page/custom post or Text widget and past the short code  [tmrd-testimonial] 
 3. you could use for .php file any where `<?php echo do_shortcode('[tmrd-testimonial'); ?>`
 
 
