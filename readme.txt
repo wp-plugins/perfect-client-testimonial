@@ -25,7 +25,7 @@ Plugin Features
 * Just use this shortcode [tmrd-testimonial] where you want show the testimonial.
 
  
-Live Preview: http://nakshighor.com/testimonial/
+Live Preview: http://nakshighor.com/plugins/perfect-client-testimonial/
 
 == Installation ==
 
