@@ -24,6 +24,11 @@ Plugin Features
 * You can use it in posts or pages.
 * Just use this shortcode [tmrd-testimonial] where you want show the testimonial.
 
+ What You Get From This Current version 2.0.0
+ 
+ *Your clients-feedback changes automatically that now autoplay is true.
+   SO, Enjoy more the plugins.
+
  
 Live Preview: http://nakshighor.com/plugins/perfect-client-testimonial/
 
