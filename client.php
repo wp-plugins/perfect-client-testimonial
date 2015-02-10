@@ -3,7 +3,7 @@
  * Plugin Name: Perfect Client Testimonial
  * Plugin URI: http://nakshighor.com/testimonial
  * Description: Perfect Client Testimonial is one of the best custom plugin to publish your unlimited clients testimonial with your clients image. Anybody can able to use this plugin easily. You can add clients testimonial by using this plugin anywhere in your websites like Pages,Posts, Widgets etc. with its lots of amazing features. 
- * Version:  1.0.0
+ * Version:  2.0.0
  * Author: Theme Road
  * Author URI: http://nakshighor.com/testimonial
  * License:  GPL2
