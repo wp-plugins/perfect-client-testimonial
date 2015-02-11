@@ -6,7 +6,7 @@ jQuery(document).ready(function() {
       slideSpeed : 300,
       paginationSpeed : 400,
       singleItem:true,
-	  autoplay: true
+	  autoPlay: true
  
       // "singleItem:true" is a shortcut for:
       // items : 1, 
