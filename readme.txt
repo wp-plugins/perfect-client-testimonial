@@ -1,5 +1,7 @@
 === Perfect Client Testimonial ===
-Contributors: Theme Road
+Contributors: BestThemeRoad
+Author URI: https://profiles.wordpress.org/bestthemeroad
+Author: Theme Road
 Donate link: 
 Tags:  Testimonial, testimonial slider, clients Feedback, clients Testimonial, testimonial slider,clients-portfolio,clients-plugin,testimonial-plugin,client quotes, portfolio, projects, recommendations, references, reviews, testimonials.
 Requires at least: 3.5
