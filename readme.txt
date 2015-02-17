@@ -1,5 +1,5 @@
 === Perfect Client Testimonial ===
-Contributors: BestThemeRoad
+Contributors:BestThemeRoad
 Author URI: https://profiles.wordpress.org/bestthemeroad
 Author: Theme Road
 Donate link: 
