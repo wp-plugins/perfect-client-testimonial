@@ -1,5 +1,7 @@
 === Perfect Client Testimonial ===
 Contributors: BestThemeRoad
+Author URI: https://profiles.wordpress.org/bestthemeroad
+Author: Theme Road
 Donate link: 
 Tags:  Testimonial, testimonial slider, clients Feedback, clients Testimonial, testimonial slider,clients-portfolio,clients-plugin,testimonial-plugin,client quotes, portfolio, projects, recommendations, references, reviews, testimonials.
 Requires at least: 3.5
@@ -8,7 +10,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Display Clients Feedback or Testimonials in pages,posts,custom-posts,widgets
+Display Your Clients Feedback or Testimonials in pages,posts,custom-posts,widgets etc.
 
 
 == Description ==
