@@ -26,7 +26,7 @@ Plugin Features
 
  What You Get From This Current version 2.0.0
  
- *Your clients-feedback changes automatically that now autoplay is true.
+ * Your clients-feedback changes automatically that now autoplay is true.
    SO, Enjoy more the plugins.
 
  
@@ -53,9 +53,11 @@ Via FTP -
 
 == Frequently asked questions == 
 
-1.Please Give us five star if you like it.
 
-2.Please contact us to solve your problem.
+1. Is it a Responsive Plugin?
+ Ans: Yes.
+2. Have any options to contact for solve our problem?
+ Ans: Ofcourse,why not. Just mail us BestThemeRoad@gmail.com or comments  to solve your problem.
 
 
 == Screenshots ==
