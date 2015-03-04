@@ -36,13 +36,13 @@ Installation Video Tutorial:
 [youtube https://www.youtube.com/watch?v=pIINp1oEnes]
 
 
-* [Our Others WordPress Plugins](//wordpress.org/plugins/search.php?q=bestthemeroad)
- * [Easy Responsive Google Map](//wordpress.org/plugins/easy-responsive-google-map/)
- * [Amazing Pricing Table](//wordpress.org/plugins/amazing-pricing-table/)
- * [Developers Total Widgets](wordpress.org/plugins/developers-total-widgets/)
- * [Perfect Client Testimonial](wordpress.org/plugins/perfect-client-testimonial/)
- * [Tr Easy Google Analytics ](wordpress.org/plugins/tr-easy-google-analytics/)
- * [Wp Nice Responsive Faq](wordpress.org/plugins/nice-responsive-wp-faq/)
+* [Our Others WordPress Plugins](https://wordpress.org/plugins/search.php?q=bestthemeroad)
+ * [Easy Responsive Google Map](https://wordpress.org/plugins/easy-responsive-google-map/)
+ * [Amazing Pricing Table](https://wordpress.org/plugins/amazing-pricing-table/)
+ * [Developers Total Widgets](https://wordpress.org/plugins/developers-total-widgets/)
+ * [Perfect Client Testimonial](https://wordpress.org/plugins/perfect-client-testimonial/)
+ * [Tr Easy Google Analytics ](https://wordpress.org/plugins/tr-easy-google-analytics/)
+ * [Wp Nice Responsive Faq](https://wordpress.org/plugins/nice-responsive-wp-faq/)
  * [Easy Google Webmaster Tools](https://wordpress.org/plugins/easy-webmaster-tools/)
  * [WP Custom Header Footer](https://wordpress.org/plugins/wp-custom-header-footer/)
  * [TR WP Custom Login Page](https://wordpress.org/plugins/tr-wp-custom-login-page/)
