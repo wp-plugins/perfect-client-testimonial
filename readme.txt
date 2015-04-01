@@ -15,6 +15,8 @@ Display Your Clients Feedback or Testimonials in pages,posts,custom-posts,widget
 
 == Description ==
 
+### Perfect Client Testimonial by http://themeroad.net
+
 Perfect Client Testimonial is one of the best custom plugin to publish your unlimited clients testimonial with your clients image. Anybody can able to use this plugin easily. You can add clients testimonial by using this plugin anywhere in your websites like Pages,Posts, Widgets etc. with its lots of amazing features.
 
 Plugin Features
