@@ -5,7 +5,7 @@ Author: Theme Road
 Donate link: 
 Tags:  Testimonial, testimonial slider, clients Feedback, clients Testimonial, testimonial slider,clients-portfolio,clients-plugin,testimonial-plugin,client quotes, portfolio, projects, recommendations, references, reviews, testimonials.
 Requires at least: 3.5
-Tested up to: 4.1
+Tested up to: 4.2.1
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
