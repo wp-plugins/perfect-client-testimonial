@@ -38,16 +38,14 @@ Installation Video Tutorial:
 [youtube https://www.youtube.com/watch?v=pIINp1oEnes]
 
 
-* [Our Others WordPress Plugins](https://wordpress.org/plugins/search.php?q=bestthemeroad)
- * [Easy Responsive Google Map](https://wordpress.org/plugins/easy-responsive-google-map/)
- * [Amazing Pricing Table](https://wordpress.org/plugins/amazing-pricing-table/)
- * [Developers Total Widgets](https://wordpress.org/plugins/developers-total-widgets/)
- * [TR Easy Google Analytics ](https://wordpress.org/plugins/tr-easy-google-analytics/)
- * [Nice Responsive WP Faq](https://wordpress.org/plugins/nice-responsive-wp-faq/)
- * [Easy Google Webmaster Tools](https://wordpress.org/plugins/easy-webmaster-tools/)
- * [WP Custom Header Footer](https://wordpress.org/plugins/wp-custom-header-footer/)
- * [TR WP Custom Login Page](https://wordpress.org/plugins/tr-wp-custom-login-page/)
- * [TR Recent Post View By Category](https://wordpress.org/plugins/tr-recent-post-view-by-category/) 
+* [Our Premium Plugins](http://themeroad.net/)
+ * [TR WP Custom Login](http://themeroad.net/product/tr-custom-login/)
+ * [TR Advanced Price Plan Pro](http://themeroad.net/product/tr-advanced-price-plan-pro/)
+ * [TR WooCommerce Image Zoom PRO](http://themeroad.net/product/woocommerce-image-zoom-pro/)
+ * [TR Carousel Slider Pro](http://themeroad.net/product/tr-carousel-slider-pro/)
+ * [TR Logo Slider Pro](http://themeroad.net/product/tr-logo-slider-pro/)
+ * [TR Filterable Portfolio Pro](http://themeroad.net/product/tr-filterable-portfolio-pro/)
+ * [TR Nice Accordion Pro](http://themeroad.net/product/tr-nice-accordion/)
   
   
 Live Preview: http://nakshighor.com/plugins/perfect-client-testimonial/
